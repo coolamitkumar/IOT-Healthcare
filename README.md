@@ -1,8 +1,9 @@
 # IOT-Healthcare
 
-## Internet of things in healthcare: applications, benefits, and challenges
+## Internet of things in healthcare: applications, benefits, and challenges 
 The healthcare industry is in a state of great despair. Healthcare services are costlier than ever, global population is aging and the number of chronic diseases are on a rise.
 
+IoT enables healthcare professionals to be more watchful and connect with the patients proactively. ... IoT devices tagged with sensors are used for tracking real time location of medical equipment like wheelchairs, defibrillators, nebulizers, oxygen pumps and other monitoring equipment.
 What we are approaching is a world where basic healthcare would become out of reach to most people, a large section of society would go unproductive owing to old age and people would be more prone to chronic disease.
 
 Isn’t it the end of the world we suspected? Whatever, IoT app development is at your rescue.
